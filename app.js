@@ -1,11 +1,7 @@
 var input = document.getElementById("inputbox");
 var text = document.querySelector(".text");
 
-// function deleteAll() {
-//     var todoParent = document.getElementById("todoParent")
-//     console.log(todoParent.innerHTML)
-//     todoParent.innerHTML = ""
-// }
+
 // var link = "abdul-todo-app.surge.sh"
 
 function Add() {
